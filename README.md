@@ -19,7 +19,7 @@ Our first setting is about the camera's field of view, the size of the snake sho
     </td>
     <td style="padding-left: 20px;">
       <p style="margin-top: 0;">First, let's adjust the main camera settings to increase its field of view so that objects in our game area appear smaller.</p>
-      <p>🕹️ Start by selecting the main camera from the <b><i>"Hierarchy"</i></b> window.</p>Start by selecting the main camera from the
+      <p>🕹️ Start by selecting the main camera from the <b><i>"Hierarchy"</i></b> window.</p>
       <p>🕹️ And find the size setting of the camera in the <b><i>"Inspector"</i></b> window.</p>
       <p>🕹️ The size of the camera is 5 by default. You can change it to 15 or any other value you want. 15 will be enough for this game.</p>
       <p>🕹️ You can also change the background color of the camera to your preference.</p>
