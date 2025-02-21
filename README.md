@@ -1,7 +1,7 @@
 # STEP BY STEP 2D SNAKE GAME 🐍🍎
 Hey guys! Here is a classic snake game made with Unity 2022.3.16f1. You know the best way to understand game mechanics is to clone games from our childhood. This is my first clone game. I hope you have as much fun making this game as I did ;) By the way I mostly used [Zigurous](https://www.youtube.com/@Zigurous)'s [How to make Snake in Unity (Complete Tutorial) 🐍🍎](https://www.youtube.com/watch?v=U8gUnpeaMbQ) video to make this game so I thank [Adam Graham](https://github.com/adamgraham) very much :)
 
-# [Arcade Snake Unity Folder](https://drive.google.com/drive/folders/1TEVQNnhHCNjQf5oi7rxk3BrWwfl--m3Q)
+# [Arcade Snake Unity Folder](https://drive.google.com/file/d/1p9Yf9txNDoSSYh1mC1LSKB6Ygnr_vRXS/view?usp=sharing)
 
 ## Game Preview
 
